@@ -83,7 +83,7 @@ def main():
     #  ########################################################################
     mode = 0
 
-    buffer_max = 15
+    buffer_max = 10
     buffervalues = buffer_max
     concat_string = " "
 
